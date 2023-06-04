@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: fancyacrobat/amazon:4
+        image: fancyacrobat/amazon:5
         ports:
         - containerPort: 3000
         
